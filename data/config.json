@@ -1,0 +1,7 @@
+{
+	"token" : "secret",
+	"prefix" : "hatz",
+	"channel" : {
+		"logs" : "mod-log"
+	}
+}

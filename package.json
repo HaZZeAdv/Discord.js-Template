@@ -1,0 +1,8 @@
+{
+  "name": "Bot Template",
+  "version": "1.0.0",
+  "description": "A bot template for discord",
+  "main": "bot.js",
+  "author": "HaZZe",
+  "license": "ISC"
+}

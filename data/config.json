@@ -1,7 +1,7 @@
 {
 	"token" : "secret",
 	"prefix" : "hatz",
-	"ownerid" : "none"
+	"ownerid" : "none",
 	"channel" : {
 		"logs" : "mod-log"
 	}
